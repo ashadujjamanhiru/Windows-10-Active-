@@ -13,7 +13,7 @@
 **You Check Activation Status ( Choice [5] )**
 
 
-# If You active Office application 2019 or 2016 
+# If You activate Office application 2019 or 2016 
 
 **Enter Your Choice in the Keyboard ( Choice [4] --> Online KMS Activation - Windows/Server/Office)**
 
